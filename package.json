@@ -1,0 +1,33 @@
+{
+	"name": "next-new-component",
+	"version": "5.0.2",
+	"description": "CLI for creating new React components for next js",
+	"homepage": "https://github.com/vishal07042/next-new-component",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vishal07042/next-new-component"
+	},
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"next",
+		"nextJs",
+		"vercel",
+		"react",
+		"reactjs",
+		"cli",
+		"component",
+		"boilerplate",
+		"server_components"
+	],
+	"author": "Vishal",
+	"license": "MIT",
+	"bin": {
+		"next-new-component": "./src/index.js"
+	},
+	"dependencies": {
+		"commander": "10"
+	}
+}
